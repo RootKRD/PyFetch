@@ -13,7 +13,7 @@ Fetch All URL From The "PyFetch" Open-Source :fire:
 > python PyFetch.py
 ```
 
-## Using : 
+## Usage : 
 ```python PyFetch.py -u https://example.com -t 10 -o output.txt```
 ## Resualt
 
