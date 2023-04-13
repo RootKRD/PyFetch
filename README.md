@@ -7,7 +7,7 @@ Fetch All URL From The "PyFetch" :fire:
 
 ## Install & Setup :
 ```
-> git clone 
+> git clone https://github.com/RootKRD/PyFetch.git
 > cd PyFetch
 > pip install -r requirements.txt
 > python PyFetch.py
