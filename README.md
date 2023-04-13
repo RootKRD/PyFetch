@@ -17,7 +17,7 @@ Fetch All URL From The "PyFetch" Open-Source :fire:
 ```python PyFetch.py -u https://example.com -t 10 -o output.txt```
 ## Resualt
 
-![Image2](https://i.imgur.com/d43ytMg.png)
+![Image2](https://i.imgur.com/Rsin9yH.png)
 
 ### Donate 
 USDT-TRC20 : `TBUVGX32zazbp5GwZ7GMxm99tg9Rjv2CeT`
