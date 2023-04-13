@@ -15,3 +15,6 @@ Fetch All URL From The "PyFetch" :fire:
 
 # Using : 
 ```python PyFetch -u https://example.com -t 10 -o output.txt```
+
+
+# Donate : `TBUVGX32zazbp5GwZ7GMxm99tg9Rjv2CeT`
