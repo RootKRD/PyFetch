@@ -13,5 +13,6 @@ Fetch All URL From The "PyFetch" :fire:
 > python PyFetch.py
 
 # Using : 
-
+'''
 > python PyFetch `-u` https://example.com `-t` 10 `-o` output.txt
+'''
