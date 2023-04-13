@@ -1,5 +1,5 @@
 # PyFetch
-Fetch All URL From The "PyFetch" :innocent:
+Fetch All URL From The "PyFetch" :fire:
 
 ![Image](https://i.imgur.com/TnbiVPY.png)
 
