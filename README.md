@@ -6,11 +6,12 @@ Fetch All URL From The "PyFetch" :fire:
 *** 
 
 # Install & Setup :
-
+```
 > git clone 
 > cd PyFetch
 > pip install -r requirements.txt
 > python PyFetch.py
+```
 
 # Using : 
-```python PyFetch `-u` https://example.com `-t` 10 `-o` output.txt```
+```python PyFetch -u https://example.com -t 10 -o output.txt```
