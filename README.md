@@ -14,7 +14,7 @@ Fetch All URL From The "PyFetch" Open-Source :fire:
 ```
 
 ## Using : 
-```python PyFetch -u https://example.com -t 10 -o output.txt```
+```python PyFetch.py -u https://example.com -t 10 -o output.txt```
 
 
 ### Donate 
