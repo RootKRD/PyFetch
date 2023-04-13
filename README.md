@@ -11,7 +11,6 @@ Fetch All URL From The "PyFetch" :fire:
 > cd PyFetch
 > pip install -r requirements.txt
 > python PyFetch.py
-> python PyFetch.py -h
 ```
 
 ## Using : 
